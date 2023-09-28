@@ -3,7 +3,7 @@
 
 
 <p align="left">
-📖  Estic estudiant 1r ASIX-DAM, al Institut de l'Ebre de Tortosa</p>
+📖  Estic estudiant 2r ASIX, al Institut de l'Ebre de Tortosa</p>
 <p align="left">
 ⚽  M'agrada molt jugar a videojocs i el meu joc preferit es el FIFA</p>
 <p align="left">
