@@ -67,7 +67,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=IsaacAndreu&style=flat-square&color=00c8ff" alt="Profile views" />
+  <img src="[https://komarev.com/ghpvc/?username=IsaacAndreu&style=flat-square&color=00c8ff](https://komarev.com/ghpvc/?username=IsaacAndreu&style=flat-square&color=00c8ff)" alt="Profile views" />
 </p>
 
 <p align="center">
